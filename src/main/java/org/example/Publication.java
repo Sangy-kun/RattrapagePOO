@@ -34,5 +34,4 @@ public class Publication {
         System.out.println(this.toString());
     }
 
-
 }

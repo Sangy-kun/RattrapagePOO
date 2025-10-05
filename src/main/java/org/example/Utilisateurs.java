@@ -57,7 +57,7 @@ public class Utilisateurs {
 
     @Override
     public String toString() {
-        return "Utilisateur : " + "id=" + id + ", nom=" + nom + ", prenom=" + prenom + ", email=" + email + '.';
+        return "Utilisateur : " + "id = " + id + ", nom = " + nom + ", prenom = " + prenom + ", email = " + email + '.';
     }
 
     public void afficherUtilisateur(Utilisateurs utilisateur) {
